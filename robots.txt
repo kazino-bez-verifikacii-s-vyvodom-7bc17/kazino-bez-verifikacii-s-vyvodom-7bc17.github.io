@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-verifikacii-s-vyvodom-7bc17.github.io
+Sitemap: https://kazino-bez-verifikacii-s-vyvodom-7bc17.github.io/sitemap.xml
